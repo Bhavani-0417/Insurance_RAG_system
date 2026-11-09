@@ -1,12 +1,12 @@
-# Insurance Query Assistant
+# Insurance RAG System: Enterprise Document Q&A Automation
 
-> Evidence-grounded question answering over insurance policy documents using retrieval-augmented generation (RAG).
+> AI-powered question answering over insurance policy documents using retrieval-augmented generation (RAG).
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![RAG](https://img.shields.io/badge/Architecture-RAG-purple)
 ![Status](https://img.shields.io/badge/Status-Portfolio%20project-orange)
 
-Insurance Query Assistant is a portfolio project exploring natural-language question answering over insurance policy documents. The original prototype combines PDF extraction, SentenceTransformers embeddings, FAISS retrieval, Ollama inference, Streamlit, and FastAPI.
+**Insurance RAG System: Enterprise Document Q&A Automation** is a portfolio project exploring natural-language question answering over insurance policy documents. The original prototype combines PDF extraction, SentenceTransformers embeddings, FAISS retrieval, Ollama inference, Streamlit, and FastAPI.
 
 **Disclaimer:** This is an experimental portfolio project, not an insurance decision engine. Outputs may be incomplete or incorrect and must not be used to approve or deny claims or replace professional advice.
 
