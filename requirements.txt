@@ -1,8 +1,13 @@
-fastapi
-uvicorn
-python-multipart
-pydantic
-requests
-PyMuPDF
-sentence-transformers
-faiss-cpu
+# Runtime dependencies for the original Streamlit + FastAPI prototype
+fastapi>=0.110,<1.0
+uvicorn[standard]>=0.27,<1.0
+streamlit>=1.32,<2.0
+pydantic>=2.6,<3.0
+python-multipart>=0.0.9
+requests>=2.31,<3.0
+PyPDF2>=3.0,<4.0
+PyMuPDF>=1.23,<2.0
+sentence-transformers>=2.6,<6.0
+faiss-cpu>=1.7.4
+numpy>=1.26,<3.0
+ollama>=0.1.8
