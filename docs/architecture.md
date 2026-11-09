@@ -1,4 +1,4 @@
-# Architecture Notes
+# Insurance RAG System — Architecture Notes
 
 ## Intended workflow
 Document ingestion -> text extraction -> chunking -> embeddings -> FAISS retrieval -> local LLM generation -> Streamlit/FastAPI response.
